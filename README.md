@@ -1,12 +1,12 @@
 ## Hi, I'm Alvaro Giunta
 
-Electronics engineer (UTN) and co-founder of [MateWare Electronics Studio](https://mateware.com.ar), an electronics engineering studio based in Mendoza, Argentina.
+Electronics engineer (UTN) and co-founder of [MateWare Electronics Studio](https://mateware.com.ar/en/), an electronics engineering studio based in Mendoza, Argentina.
 
 ### About MateWare
 
 We design custom electronic products end to end: hardware, firmware and industrial design, from the first idea to series production. Our clients work with a single technical partner across the whole development cycle.
 
-We also build our own product, [MoTI](https://mateware.com.ar/moti), an industrial monitoring and telemetry platform (IIoT).
+We also build our own product, [MoTI](https://mateware.com.ar/en/moti/), an industrial monitoring and telemetry platform (IIoT).
 
 ### What I do
 
@@ -22,22 +22,22 @@ On the technical side I focus on:
 
 ### Get in touch
 
-- Website: [mateware.com.ar](https://mateware.com.ar)
+- Website: [mateware.com.ar](https://mateware.com.ar/en/)
 - GitHub organization: [@matewarestudio](https://github.com/matewarestudio)
-- Email: hola@mateware.com.ar
+- Email: hello@mateware.com.ar
 
 <details>
 <summary><b>Español</b></summary>
 
 ### Hola, soy Alvaro Giunta
 
-Ingeniero electrónico (UTN) y socio fundador de [MateWare Electronics Studio](https://mateware.com.ar), un estudio de ingeniería electrónica en Mendoza, Argentina.
+Ingeniero electrónico (UTN) y socio fundador de [MateWare Electronics Studio](https://mateware.com.ar/), un estudio de ingeniería electrónica en Mendoza, Argentina.
 
 #### Sobre MateWare
 
 Desarrollamos productos electrónicos a medida de punta a punta: hardware, firmware y diseño industrial, desde la idea hasta la producción en serie. Nuestros clientes trabajan con un solo socio técnico durante todo el ciclo de desarrollo.
 
-También desarrollamos nuestro propio producto, [MoTI](https://mateware.com.ar/moti), una plataforma de monitoreo y telemetría industrial (IIoT).
+También desarrollamos nuestro propio producto, [MoTI](https://mateware.com.ar/moti/), una plataforma de monitoreo y telemetría industrial (IIoT).
 
 #### Qué hago
 
@@ -53,8 +53,8 @@ En lo técnico me enfoco en:
 
 #### Contacto
 
-- Web: [mateware.com.ar](https://mateware.com.ar)
+- Web: [mateware.com.ar](https://mateware.com.ar/)
 - Organización en GitHub: [@matewarestudio](https://github.com/matewarestudio)
-- Email: hola@mateware.com.ar
+- Email: hello@mateware.com.ar
 
 </details>
